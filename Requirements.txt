@@ -1,0 +1,3 @@
+Requirements.txtstreamlit
+google.generativeai
+python-dotenv
